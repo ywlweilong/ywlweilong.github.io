@@ -1,0 +1,29 @@
+body{background: #fafafa;
+margin: 0;}
+
+
+.header{height: 70px;
+background: #1b39ab;
+font-size: 50px;
+color: #fff;
+}
+
+
+
+
+.wrapper{height: 700px;
+width: 960px;
+box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+background: #fff;
+margin: 10px auto;
+
+}
+
+
+.footer{
+	height: 70px;
+	background: teal;
+font-size: 50px;
+color: #fff;
+
+}
